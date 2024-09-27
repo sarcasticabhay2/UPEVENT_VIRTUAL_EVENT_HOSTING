@@ -31,7 +31,7 @@ https://user-images.githubusercontent.com/71185961/233144702-d3bac40b-4ac8-45da-
 * Git
 
 ### Installation
-1. Clone the repository using git clone https://github.com/ayushkumar0208/Up-Event.git
+1. Clone the repository using git clone https://github.com/sarcasticabhay2/UPEVENT_VIRTUAL_EVENT_HOSTING
 2. Install the required dependencies using ```npm install```
 3. Create a .env file in the project up-event/api with the following environment variables:
 ```
